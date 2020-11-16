@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XFG//6z8XV53F1OoKx4eR1/2KRIx/aSUvR9qc2AB0sQM+g7/rvEE2NR64Khc7Bo3QXYiYsdpxbtdSG70C+virQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mihai\\Documents\\Git\\src\\WebSocketServer\\WebSocketServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihai\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
